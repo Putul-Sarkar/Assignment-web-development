@@ -2,6 +2,16 @@ body{
     font-family: 'poppins', sans-serif;
 margin: 0;
 }
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 255, 76), rgb(157, 185, 32));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight:700;
+
+}
 h1{
     font-size: 50px;
 }
@@ -83,9 +93,18 @@ h2{
     display: flex;
     margin-left: 5%;
     margin-top: 5%;
+   
+    
 }
 .develop-pera{
     margin-left: 7%;
+}
+.global-community{
+    display: flex;
+    margin: 5%;
+}
+.project{
+    margin-left: 8%;
 }
 
 
