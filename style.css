@@ -1,0 +1,93 @@
+body{
+    font-family: 'poppins', sans-serif;
+margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.start{
+    display: flex;
+    padding-left: 20px;
+    margin-left: 15%;
+}
+.orange-color{
+    color:orange;
+}
+.stay-focus{
+
+    width: 50%;
+    padding-left: 20px;
+    margin-left: 5%;
+    
+}
+.borders{  
+    border-left: 5px solid rgb(93, 170, 93);
+    line-height: 50px;
+    padding-left: 20px;
+}
+.stay-focus img
+{
+    width: 50%;
+}
+
+.mission{
+    text-align: center;
+}
+.mission-item{
+    display: flex;
+}
+.mission-one{
+    width: 30%;
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(204, 229, 243);
+
+}
+.mission-two{
+    width: 30%;
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(243, 204, 235);
+
+}
+.mission-three{
+    width: 30%;
+
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(198, 241, 190);
+
+}
+.mission-one img{
+    height: 30%;
+}
+.mission-two img{
+    height: 30%;
+}
+.mission-three img{
+    height: 30%;
+  
+}
+.develop-limit{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.develop-pera{
+    margin-left: 7%;
+}
+
+
+
+
